@@ -14,7 +14,6 @@
 
 <h1 align="Center">Hi 👋🏼, I'm Gauri Gupta</h1>
 
-<h3 align="Center">Driven by an unwavering determination!
 
 
 🔭 I just graduated from a Bootcamp in **Data Analytics and Visualization from University of Toronto**
